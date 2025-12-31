@@ -2,7 +2,7 @@
 CS student @ SRM University<br>Java Full Stack • Spring Boot • Data Analytics × AI<br><br>I like turning logic into code, problems into solutions, and ideas into systems.<br>Constantly learning, constantly leveling up in computer science.<br>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/bhuvana_hareendran) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bhuvana-hareendran) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:bhuvanahareendran@gmail.com) 
 
 # 💻 Tech Stack:
